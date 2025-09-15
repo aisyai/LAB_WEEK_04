@@ -25,8 +25,13 @@
     <string name="bottom_menu_cafe">Cafe</string>
 
     <string name="fore_title">FORE</string>
+    <string name="fore_desc">Fore Coffee adalah brand kopi lokal Indonesia yang terkenal dengan konsep modern dan inovatif, menghadirkan kopi dengan kualitas tinggi dari biji kopi lokal.</string>
+
     <string name="janjijiwa_title">JANJI JIWA</string>
+    <string name="janjijiwa_desc">Janji Jiwa adalah brand kopi lokal yang populer di kalangan anak muda, dengan jargon "kopi dari hati".</string>
+
     <string name="kopikenangan_title">KOPI KENANGAN</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kopikenangan_desc">Kopi Kenangan menghadirkan kopi berkualitas tinggi dengan bahan lokal segar, dan sudah tersebar di seluruh Indonesia.</string>
+
+<!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
 </resources>
